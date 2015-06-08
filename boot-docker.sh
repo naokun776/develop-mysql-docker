@@ -1,0 +1,1 @@
+docker run -d -i -p 5306:3306 -p 5080:8080 -p 5990:9990 -t develop-container/mysql /home/boot.sh
